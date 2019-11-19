@@ -1,0 +1,27 @@
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe.config
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.pdb
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csprojResolveAssemblyReference.cache
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Form1.resources
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Properties.Resources.resources
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csproj.GenerateResource.Cache
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.exe
+C:\Users\shaza\Desktop\C#\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.pdb
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe.config
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.exe
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.pdb
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.pdb
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csprojResolveAssemblyReference.cache
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Form1.resources
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Properties.Resources.resources
+D:\C#\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csproj.GenerateResource.Cache
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe.config
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.exe
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\bin\Debug\RockPaperZafar.pdb
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csprojResolveAssemblyReference.cache
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Form1.resources
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.Properties.Resources.resources
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.csproj.GenerateResource.Cache
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.exe
+D:\Spring Semester 2019\CPT-2320 - C#\Test 2\Homework\RockPaperZafar\RockPaperZafar\obj\Debug\RockPaperZafar.pdb
